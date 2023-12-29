@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="tv_title_login">Yuk bagikan cerita menarik kamu!</string>
+    <string name="tv_ajakan_login">Masukkan data kamu terlebih dahulu</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="tv_signup_title">Lengkapi Data Kamu Terlebih Dahulu ya!</string>
+    <string name="tv_signup_name">Nama</string>
+    <string name="hint_username">Username</string>
+    <string name="tv_signup_email">Email</string>
+    <string name="tv_signup_password">Password</string>
+    <string name="error_message">Mohon untuk mengisi</string>
+    <string name="tv_welcome_title">Welcome to StoryApp!</string>
+    <string name="tv_welcome_description">Let\'s create an account and share your story \nwith the world!</string>
+    <string name="cd_add_story">Add Story</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="name_user">Nama User</string>
+    <string name="deskripsi_story">Deskripsi</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_upload">Upload Image</string>
+    <string name="tv_galery">Galery</string>
+    <string name="tv_camera">Camera</string>
+    <string name="image_empty_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_user_maps">UserMaps</string>
+    <string name="story_map">Story Map</string>
+    <string name="normal_type">Normal</string>
+    <string name="satelite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="loading_data">Sedang Mengambil Data</string>
+    <string name="retry">Coba lagi</string>
+</resources>
